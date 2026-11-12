@@ -1,0 +1,6 @@
+{
+  "name": "Vikas AI Anime Studio",
+  "description": "Japanese 2D anime creation studio with Hindi voice synthesis, multi-character consistency from a single sheet, cinematic anime scene animation, timeline editor, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
